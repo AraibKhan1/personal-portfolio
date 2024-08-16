@@ -148,7 +148,7 @@ const experiences = [
   // },
   {
     title: 'Front-End Developer',
-    company_name: 'Rndream',
+    company_name: 'Rendream',
     icon: dcc,
     iconBg: '#333333',
     date: 'Aug 2024 - Present',

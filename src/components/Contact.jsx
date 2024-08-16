@@ -25,8 +25,6 @@ const Contact = () => {
     e.preventDefault();
     setLoading(true);
 
-    // sign up on emailjs.com (select the gmail service and connect your account).
-    //click on create a new template then click on save.
     emailjs
       .send(
         'service_oc591t8', // paste your ServiceID here (you'll get one when your service is created).
